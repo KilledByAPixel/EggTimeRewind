@@ -5,8 +5,9 @@ Crack a few space eggs in this low res Nokia throwback!
 
 ![screenshot](/screenshot.png)
 
-Time REWINDS you die...
-but your PARALLEL LIVES remain.
+## Time REWINDS you die...
+
+## and your PARALLEL LIVES return.
 
 ### Controls
 * Move with wasd, num pad, mouse, or gamepad.
