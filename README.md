@@ -19,3 +19,9 @@ Crack a few space eggs in this low res Nokia throwback!
 * When you die, your previous lives will return to help.
 * Level is randomly generated for each new game.
 * The game will save your high score, good luck.
+
+### Code Notes
+* Code is separated into game, engine, and debug modules.
+* There is a debug mode you can enable in code.
+* Number keys control debug mode features.
+* Ccapture is used to capture gifs.
