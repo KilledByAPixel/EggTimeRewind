@@ -1,4 +1,4 @@
-# EggTimeRewind
+# Egg Time Rewind
 Crack a few space eggs in this low res Nokia throwback!
 
 Made in only 4 days for [Nokia 3310 Jam 2!](https://itch.io/jam/nokiajam2)
