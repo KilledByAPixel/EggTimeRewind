@@ -1010,14 +1010,7 @@ function UpdateTransiton()
         let x = 0;
         let y = sy;
         
-        try
-        {
-            mainCanvasContext.drawImage(transitionCanvas,0,sy,w,dHeight,0,sy,w,dHeight);
-        }
-        catch (e)
-        {
-            let q = 1;
-        }
+        mainCanvasContext.drawImage(transitionCanvas,0,sy,w,dHeight,0,sy,w,dHeight);
     }
 }
 
