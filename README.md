@@ -8,7 +8,7 @@ Made in only 4 days for [Nokia 3310 Jam 2!](https://itch.io/jam/nokiajam2)
 
 ![screenshot](/screenshot.png)
 
-## Time REWINDS you die... and your PARALLEL LIVES return!
+## Time REWINDS you die... but your LOST SOULS return!
 
 ### Controls
 * Move with wasd, num pad, mouse, or gamepad.
